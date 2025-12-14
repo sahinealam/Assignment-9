@@ -4,11 +4,11 @@ const ToyOfWeek = () => {
     return (
         <div>
              <section className='bg-green-100 py-12 px-6 text-center rounded-2xl'>
-                <h2 className="text-3xl font-bold text-green-700 mb-4">Toy of the Week</h2>
+                <h2 className="text-3xl font-bold text-orange-600 mb-4">Toy of the Week</h2>
 
 
                 <p className="text-gray-700 max-w-xl mx-auto mb-8">
-          This week's star is <span className="font-semibold">Toy Paia</span> —
+          This week's star is <span className="font-semibold">Toy-Topia</span> —
           a fun and colorful toy loved by kids for its playful design and joyful
           vibes. Perfect for learning and entertainment!
         </p>
