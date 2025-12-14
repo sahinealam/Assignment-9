@@ -1,22 +1,29 @@
 
-# [Live Link]()
+# [Live Link](https://github.com/sahinealam/Assignment-9)
 
 
-Project Name: **Toy-Topoa**
+## Description
+
+**ToyTopoa (ToyTopia)** is a responsive single-page React web application designed for toy lovers who want to bring creativity and joy indoors. Users can explore beautiful indoor toys and learn basic care tips.  
+The application works smoothly on **mobile, tablet, and desktop** devices.
 
 
-Description:
-ToyTopia is single-page React web application and it's also responsive for all the device (Mobile,Tab,Laptop). It's designed for Toy lovers who want to bring nature indoors. It allows users to explore beautiful indoor Toys and learn care tips.
+## 🛠️ Technologies Used
+- React  
+- React Router  
+- React Router DOM  
+- TailwindCSS  
+- DaisyUI  
+- Firebase  
+- React Toastify  
+- React Icons  
+- Swipe
 
-
-Technologies Used:
-
-React, 
-React-router
-React Router DOM, 
-TailwindCSS, 
-DaisyUI,
-Firebase,
-React-toastify,
-React-icons,
-Swiper,
+## ✨ Features
+- Explore a wide range of indoor toys  
+- Fully responsive design  
+- Firebase authentication  
+- Smooth routing with React Router  
+- Modern UI using TailwindCSS & DaisyUI  
+- Toast notifications for better UX  
+- Interactive sliders with Swiper  
