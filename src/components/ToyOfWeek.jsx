@@ -14,8 +14,8 @@ const ToyOfWeek = () => {
         </p>
                 <img
                     className="mx-auto w-80 h-60 object-cover rounded-xl shadow-lg"
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHPXxrpa4hzMgJrRDD6dZLXl7wec7C9d6fJQ&s"
-                    alt="Peace Lily"
+                    src="https://storio.in/cdn/shop/files/419j_9HBzFL.jpg?v=1712374499"
+                    alt="Pangoin Toy"
                 />
 
             </section>
