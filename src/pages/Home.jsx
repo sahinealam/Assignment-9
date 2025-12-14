@@ -28,7 +28,8 @@ const Home = () => {
                                 <img
                                     src={toy.image}
                                     alt={toy.toyName}
-                                    className="w-full h-[450px] object-cover rounded-lg"
+                                 className="w-full h-[250px] sm:h-[300px] md:h-[380px] lg:h-[450px] object-cover rounded-lg"
+
                                 />
                                 <h3 className="text-xl font-semibold mt-3">{toy.toyName}</h3>
                                 <p className="text-green-600 font-medium">{toy.price}</p>
