@@ -32,7 +32,7 @@ const ToyDetails = () => {
                 <div className="p-5 bg-gray-100  ">
                     <div className="md:flex  ">
                         <div>
-                            <img className="h-[350px] w-[350px] rounded-lg" src={toy.image} alt={toy.toyName} />
+                            <img className="w-full h-[250px] sm:h-[300px] md:h-[380px] lg:h-[450px] object-cover rounded-lg" src={toy.image} alt={toy.toyName} />
                         </div>
                         <div className="ml-[50px]">
                             <div className="md:ml-10 ">
