@@ -4,7 +4,7 @@ import { FaFacebook, FaInstagram, FaPinterest } from 'react-icons/fa';
 const Footer = () => {
     return (
         <footer className="bg-green-100 text-center py-6 mt-8
-        bg-linear-to-r from-orange-200 via-orange-400 to-orange-600 text-black">
+        bg-linear-to-r from-orange-200 via-orange-400 to-orange-600 text-white">
             <div className="flex justify-center gap-6 mb-3">
                 <a href="#">About</a>
                 <a href="#">Contact</a>
